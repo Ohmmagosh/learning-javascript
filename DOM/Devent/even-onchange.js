@@ -4,5 +4,13 @@ function getMenu(){
     console.log(menu.value.toUpperCase());
     console.log(display);
     display.innerText = menu.value;
-    console.log(display);
+}
+
+function hightlight(obj){
+    obj.style.background = 'yellow';
+}
+
+function unhightlight(obj) {
+    obj.style.background = "crimson";
+    obj.style.color = "white";
 }
