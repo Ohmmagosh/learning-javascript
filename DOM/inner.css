@@ -1,0 +1,16 @@
+body{
+    background-color: #333;
+    color: chartreuse;
+}
+.ohm{
+    color: crimson;
+    background-color: darkcyan;
+}
+.light{
+    color: black;
+    background-color: cyan;
+}
+.dark{
+    color: cyan;
+    background-color:black;
+}
